@@ -5,7 +5,7 @@
 ## 📦 Установка
 
 ```bash
-go get github.com/<your-github-username>/inmemory-cache
+go get github.com/PhoenixJustCode/inmemory-cache-golang
 
 
 🚀 Использование
